@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Aman 👋
 
-<!--
-**amanjoshi25/amanjoshi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Developer with 1+ year of hands-on experience  
+🏢 Working on production-grade Node.js & Machine Learning systems  
+🔐 Experienced in authentication, JWT, REST APIs, and ML inference  
 
-Here are some ideas to get you started:
+🔗 **Connect with me**
+- 💼 [LinkedIn](https://www.linkedin.com/in/aman-joshi2502/)
+- 💻 [GitHub](https://github.com/amanjoshi25)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Python
+- Node.js / TypeScript
+- Machine Learning (CNN, NLP basics)
+- REST APIs
+- MongoDB
+
+### 🔭 What I’m working on
+- AI-driven applications
+- Backend systems with ML integration
+- Scalable authentication & API design
+
+💼 Software Developer @ Focus Research Labs
